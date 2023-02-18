@@ -1,0 +1,16 @@
+/*!********************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/test.scss ***!
+  \********************************************************************************************************/
+h1 {
+  color: red;
+  background: blue;
+}
+h1:hover {
+  color: aqua;
+}
+
+p {
+  color: yellow;
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoic3R5bGUuY3NzIiwibWFwcGluZ3MiOiI7OztBQUFBO0VBQ0U7RUFDQTtBQUNGO0FBQ0U7RUFDRTtBQUNKOztBQUVBO0VBQ0k7QUFDSixDIiwic291cmNlcyI6WyJ3ZWJwYWNrOi8vc2Fzcy13ZWJwYWNrLy4vc3JjL3Rlc3Quc2NzcyJdLCJzb3VyY2VzQ29udGVudCI6WyJoMSB7XHJcbiAgY29sb3I6IHJlZDtcclxuICBiYWNrZ3JvdW5kOiBibHVlO1xyXG5cclxuICAmOmhvdmVyIHtcclxuICAgIGNvbG9yOiBhcXVhO1xyXG4gIH1cclxufVxyXG5wIHtcclxuICAgIGNvbG9yOiB5ZWxsb3c7XHJcbn1cclxuIl0sIm5hbWVzIjpbXSwic291cmNlUm9vdCI6IiJ9*/
