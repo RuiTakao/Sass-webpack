@@ -10,3 +10,7 @@ npm install
 ```
 import './test.scss';
 ```
+## 3. scssをcssにコンパイル
+```
+npm run build
+```
